@@ -1,0 +1,480 @@
+1.	enormously
+a.	appropriately
+b.	uniquely
+c.	tremendously
+d.	decidedly
+c
+2.	provisions
+a.	stipulations
+b.	interrelations
+c.	jurisdictions
+d.	interpretations
+a
+3.	haphazardly
+a.	dangerously
+b.	densely
+c.	randomly
+d.	linearly
+c
+4.	prominent
+a.	battered
+b.	ancient
+c.	mysterious
+d.	conspicuous
+d
+5.	zenith
+a.	completion
+b.	pinnacle
+c.	outset
+d.	decline
+b
+6.	flawed
+a.	tiny
+b.	imperfect
+c.	lustrous
+d.	crude
+b
+7.	urgently
+a.	typically
+b.	conceivably
+c.	tentatively
+d.	desperately
+d
+8.	consumed
+a.	bred
+b.	caught
+c.	eaten
+d.	supplied
+c
+9.	advent
+a.	coming
+b.	arrest
+c.	financing
+d.	stability
+a
+10.	concisely
+a.	powerfully
+b.	positively
+c.	freely
+d.	succinctly
+d
+11.	salutes
+a.	information
+b.	ceremonies
+c.	greetings
+d.	privileges
+c
+12.	solitary
+a.	alert
+b.	restless
+c.	alone
+d.	fearless
+c
+13.	hasten
+a.	permit
+b.	determine
+c.	accelerate
+d.	accompany
+c
+14.	perseverance
+a.	endurance
+b.	skill
+c.	generosity
+d.	disturbance
+a
+15.	fanciful
+a.	familiar
+b.	imaginative
+c.	apparent
+d.	logical
+b
+16.	showed
+a.	demonstrated
+b.	published
+c.	repeated
+d.	postponed
+a
+17.	constantly
+a.	instantly
+b.	continually
+c.	rapidly
+d.	accidentally
+b
+18.	issues
+a.	training
+b.	salaries
+c.	subjects
+d.	benefits
+c
+19.	furnish
+a.	supply
+b.	impress
+c.	protect
+d.	advise
+a
+20.	costly
+a.	expensive
+b.	beautiful
+c.	popular
+d.	complicated
+a
+21.	recognized
+a.	successful
+b.	depicted
+c.	acknowledged
+d.	welcomed
+c
+22.	spot
+a.	climate
+b.	latitude
+c.	sea
+d.	location
+d
+23.	make
+a.	earn
+b.	print
+c.	trade
+d.	borrow
+a
+24.	often
+a.	definitely
+b.	frequently
+c.	chemically
+d.	hardly
+b
+25.	easygoing
+a.	frontier
+b.	boring
+c.	farming
+d.	relaxed
+d
+26.	debate
+a.	war
+b.	argument
+c.	election
+d.	competition
+b
+27.	narrow
+a.	clear
+b.	freezing
+c.	thin
+d.	poisonous
+c
+28.	arranged
+a.	planned
+b.	explained
+c.	studied
+d.	discarded
+a
+29.	infinite
+a.	limitless
+b.	relative
+c.	unusual
+d.	structural
+a
+30.	showy
+a.	striking
+b.	prickly
+c.	entertaining
+d.	incidental
+a
+31.	levied
+a.	imposed
+b.	believed
+c.	requested
+d.	correlated
+a
+32.	deftly
+a.	skillfully
+b.	prudently
+c.	occasionally
+d.	humorously
+a
+33.	distribute
+a.	commercialize
+b.	circulate
+c.	research
+d.	acknowledge
+b
+34.	discrepancies
+a.	weights
+b.	deposits
+c.	wavelengths
+d.	differences
+d
+35.	prolific
+a.	productive
+b.	serious
+c.	capable
+d.	promising
+a
+36.	unmatched
+a.	unrecognized
+b.	unequaled
+c.	alienated
+d.	emulated
+b
+37.	peculiarly
+a.	partly
+b.	uniquely
+c.	patriotically
+d.	suspiciously
+b
+38.	hue
+a.	glare
+b.	contrast
+c.	color
+d.	scent
+c
+39.	hind
+a.	curved
+b.	muscular
+c.	hairy
+d.	rear
+d
+40.	highlight
+a.	alter
+b.	imitate
+c.	accentuate
+d.	restore
+c
+41.	hastily
+a.	hurriedly
+b.	shrewdly
+c.	habitually
+d.	chronologically
+a
+42.	temperate
+a.	cold
+b.	mild
+c.	short
+d.	windy
+b
+43.	grin
+a.	exercise
+b.	rest
+c.	joke
+d.	smile
+d
+44.	verbally
+a.	orally
+b.	overtly
+c.	fittingly
+d.	verbosely
+a
+45.	physician
+a.	chemist
+b.	pharmacist
+c.	nurse
+d.	doctor
+d
+46.	essentially
+a.	possibly
+b.	eagerly
+c.	basically
+d.	ordinarily
+c
+47.	keen
+a.	useful
+b.	simple
+c.	famous
+d.	sharp
+d
+48.	situated
+a.	rotating
+b.	isolated
+c.	emptying
+d.	positioned
+d
+49.	principal
+a.	most
+b.	numerous
+c.	major
+d.	exceptional
+c
+50.	slowly
+a.	rarely
+b.	gradually
+c.	effectively
+d.	continuously
+b
+51.	built
+a.	constructed
+b.	proposed
+c.	financed
+d.	organized
+a
+52.	tasks
+a.	customers
+b.	materials
+c.	shops
+d.	jobs
+d
+53.	unlikely
+a.	improbable
+b.	disagreeable
+c.	different
+d.	unpopular
+a
+54.	halfheartedly
+a.	customarily
+b.	bipartisanly
+c.	apathetically
+d.	unconventionally
+c
+55.	annals
+a.	homes
+b.	trails
+c.	chronicles
+d.	songs
+c
+56.	wildly
+a.	distinctively
+b.	mysteriously
+c.	abruptly
+d.	furiously
+d
+57.	hailed
+a.	judged
+b.	acclaimed
+c.	remembered
+d.	addressed
+b
+58.	command
+a.	observation
+b.	love
+c.	awareness
+d.	mastery
+d
+59.	concocted
+a.	devised
+b.	cleaned
+c.	requested
+d.	supervised
+a
+60.	prospective
+a.	particular
+b.	prudent
+c.	potential
+d.	prominent
+c
+61.	generally
+a.	descriptively
+b.	broadly
+c.	controversially
+d.	accurately
+b
+62.	sustained
+a.	prolonged
+b.	refined
+c.	lowered
+d.	analyzed
+a
+63.	perilous
+a.	binding
+b.	exciting
+c.	offensive
+d.	dangerous
+d
+64.	tranquillity
+a.	peacefulness
+b.	harshness
+c.	weariness
+d.	happiness
+a
+65.	dissipate
+a.	disperse
+b.	isolate
+c.	disguise
+d.	photograph
+a
+66.	primarily
+a.	occasionally
+b.	cautiously
+c.	consistently
+d.	chiefly
+d
+67.	colloquial
+a.	recorded
+b.	misunderstood
+c.	incorrect
+d.	conversational
+d
+68.	resolved
+a.	publicized
+b.	forgotten
+c.	settled
+d.	examined
+c
+69.	feasible
+a.	permitted
+b.	possible
+c.	equitable
+d.	evident
+b
+70.	expeditiously
+a.	frequently
+b.	actually
+c.	rapidly
+d.	repeatedly
+c
+71.	percentage
+a.	volume
+b.	sample
+c.	proportion
+d.	profit
+c
+72.	terminated
+a.	ended
+b.	posed
+c.	postponed
+d.	evaluated
+a
+73.	uniform
+a.	hard
+b.	complex
+c.	alike
+d.	sharp
+c
+74.	figure
+a.	list
+b.	solve
+c.	divide
+d.	express
+b
+75.	sufficient
+a.	recent
+b.	physiological
+c.	enough
+d.	valuable
+c
+76.	fashion
+a.	ration
+b.	fathom
+c.	craze
+d.	manner
+d
+77.	marketed
+a.	frozen
+b.	sold
+c.	sweetened
+d.	diluted
+b
+78.	bigger
+a.	steadier
+b.	closer
+c.	larger
+d.	better
+c
+79.	roots
+a.	origins
+b.	rituals
+c.	cure
+d.	function
+a
+80.	normally
+a.	haltingly
+b.	ordinarily
+c.	permanently
+d.	periodically
+b
